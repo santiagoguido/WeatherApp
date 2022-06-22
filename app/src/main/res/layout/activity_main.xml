@@ -324,7 +324,7 @@
                                     android:textSize="@dimen/text_med"
                                     android:gravity="center"
                                     android:textColor="@color/white"
-                                    android:text="@string/pressure">
+                                    android:text="@string/humidity">
 
                                 </TextView>
 
@@ -375,7 +375,7 @@
                                     android:textSize="@dimen/text_med"
                                     android:gravity="center"
                                     android:textColor="@color/white"
-                                    android:text="@string/pressure">
+                                    android:text="@string/wind_speed">
 
                                 </TextView>
 
@@ -443,7 +443,7 @@
                                     android:textSize="@dimen/text_med"
                                     android:gravity="center"
                                     android:textColor="@color/white"
-                                    android:text="@string/pressure">
+                                    android:text="@string/min_temp">
 
                                 </TextView>
 
@@ -494,7 +494,7 @@
                                     android:textSize="@dimen/text_med"
                                     android:gravity="center"
                                     android:textColor="@color/white"
-                                    android:text="@string/pressure">
+                                    android:text="@string/max_temp">
 
                                 </TextView>
 
@@ -545,7 +545,7 @@
                                     android:textSize="@dimen/text_med"
                                     android:gravity="center"
                                     android:textColor="@color/white"
-                                    android:text="@string/pressure">
+                                    android:text="@string/temperature_in_f">
 
                                 </TextView>
 
